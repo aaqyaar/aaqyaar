@@ -1,7 +1,7 @@
 # Abdi Zamed Mohamed (abdi-aaqyaar)
 ### Software Engineer
 
-⤷ A Full Stack Developer with 2+ years of experience in designing and developing user interfaces, testing, debugging, and training staff within modern technologies. Proven ability in optimizing web functionalities that improve data retrieval and workflow efficiencies. some of the work I accomplished for them included creating websites, web applications, brands, and other things....
+⤷ I'm Abdi Zamed Mohamed, a passionate software engineer with a focus on web and mobile development. I have accomplished significant milestones in my coding journey, driven by my love for coding and desire to create impactful solutions. I have gained experience through working with local companies and pursuing personal side projects, honing my skills in problem-solving and application development.
 
 Experienced Developer />
 

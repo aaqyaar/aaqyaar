@@ -1,4 +1,4 @@
-# Abdi Zamed Mohamed (abdi-aaqyaar)
+# Abdisamed Mohamed (abdi-aaqyaar)
 ### Software Engineer
 
 ⤷ I'm Abdi Zamed Mohamed, a passionate software engineer with a focus on web and mobile development. I have accomplished significant milestones in my coding journey, driven by my love for coding and desire to create impactful solutions. I have gained experience through working with local tech companies and pursuing personal side projects, honing my skills in problem-solving and application development.
